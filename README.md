@@ -44,11 +44,28 @@ PocketWriter is a full-featured Android application designed for creating, custo
 - Internet connection (for Gradle sync & dependencies)
 
 ---
+ ⚙️ Installation & Setup
 
-### 📦 How to Run
+### ✅ Prerequisites
 
-1. **Clone the project**:
+- Android Studio (Electric Eel or newer)
+- Java JDK 11 or 17
+- Android SDK (Installed via Android Studio)
+- A physical device or Android Emulator
+- Git (for pushing to GitHub)
+
+---
+
+### 🔧 Android Studio Setup
+
+1. **Download Android Studio**  
+   👉 https://developer.android.com/studio
+
+2. **Install and Open Android Studio**  
+   - Accept SDK & tools installation.
+
+3. **Clone the Project** or Download ZIP:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pocketwriter.git
-cd pocketwriter
+
+
