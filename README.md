@@ -65,6 +65,7 @@ PocketWriter is a full-featured Android application designed for creating, custo
    - Accept SDK & tools installation.
 
 3. **Clone the Project** or Download ZIP:
+git clone https://github.com/achaltaki/ PocketWriterFull_Updated.git
 
 ```bash
 
